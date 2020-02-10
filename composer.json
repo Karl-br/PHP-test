@@ -1,5 +1,14 @@
 {
-    "require": {
-        "monolog/monolog": "1.2.*"
-    }
+    "name": "karl/php-test",
+    "description": "test for composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Charles",
+            "email": "Charles@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
