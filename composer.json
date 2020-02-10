@@ -1,7 +1,6 @@
 {
-    "name": "charles/demo",
+    "name": "hollow/demo",
     "description": "test for composer",
-    "type": "project",
     "authors": [
         {
             "name": "Charles",
