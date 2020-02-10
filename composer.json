@@ -1,14 +1,12 @@
 {
-    "name": "karl/php-test",
+    "name": "charles/demo",
     "description": "test for composer",
     "type": "project",
-    "license": "MIT",
     "authors": [
         {
             "name": "Charles",
             "email": "Charles@example.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
